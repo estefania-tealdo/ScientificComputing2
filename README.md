@@ -1,2 +1,2 @@
-# ScientificComputing2
+# Scientific Computing 2 
 Scientific Computing @ TUM
